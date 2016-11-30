@@ -45,7 +45,7 @@
 + **Adobe** Premier Pro CC 2015
 + **Nvidia** GeForce Shadowplay (*Because why not?*)
 + **Intellij** Idea 2016.2.3
-+ **Slieck2D**
++ **Slick2D**
 + **LWGL** (Lightweight Java Game Library)
 + **Notepad++**
 + **Java**
