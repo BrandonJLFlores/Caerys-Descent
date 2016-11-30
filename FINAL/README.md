@@ -17,7 +17,7 @@
 
 ***
 # The Game
->
+>Walk down the never-ending staircase of random platforms as you descend deeper and deeper into the abyss while making no headway whatsoever. Struggle against gravity as you constantly try to keep yourself far away from the spikes above you, ready and willing to pierce you, and the dark depths below you, waiting to swallow you whole. Prolong your inevitable demise by fighting against two forces you cannot win against, and try your hardest not to die.
 
 ***
 # Game Mechanics
