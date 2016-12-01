@@ -20,6 +20,12 @@
 >Walk down the never-ending staircase of random platforms as you descend deeper and deeper into the abyss while making no headway whatsoever. Struggle against gravity as you constantly try to keep yourself far away from the spikes above you, ready and willing to pierce you, and the dark depths below you, waiting to swallow you whole. Prolong your inevitable demise by fighting against two forces you cannot win against, and try your hardest not to die.
 
 ***
+# Download Links
+### Beta Version!
+[Direct Download](https://drive.google.com/open?id=0B9j81_dQvglKSHp5ZGZQX1NuYzg)
+[Mirror 1](https://www.dropbox.com/s/3mezqqvkegovoha/%5BFIX%5DCaery%27s%20Descend.jar?dl=0)
+
+***
 # Game Mechanics
 | Keyboard Controls | Function |
 | --- | --- |
