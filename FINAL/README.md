@@ -23,7 +23,7 @@
 # Download Links
 ### Beta Version! Onlys **START** button works! (But you can play the game)
 [Direct Download](https://drive.google.com/open?id=0B9j81_dQvglKSHp5ZGZQX1NuYzg) <br>
-[Mirror 1](https://www.dropbox.com/s/3mezqqvkegovoha/%5BFIX%5DCaery%27s%20Descend.jar?dl=0) | [Mirror 2](https://mega.nz/#!688E0bCC)
+[Mirror 1](https://www.dropbox.com/s/3mezqqvkegovoha/%5BFIX%5DCaery%27s%20Descend.jar?dl=0) | [Mirror 2](https://mega.nz/#!688E0bCC!wJ54yqscWStVq47ph1oiQ4yJ4l_t8W-Q7_4eDX_afPE)
 
 ***
 # Game Mechanics
