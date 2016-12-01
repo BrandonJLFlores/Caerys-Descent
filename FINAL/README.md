@@ -22,7 +22,7 @@
 ***
 # Download Links
 ### Beta Version!
-[Direct Download](https://drive.google.com/open?id=0B9j81_dQvglKSHp5ZGZQX1NuYzg)
+[Direct Download](https://drive.google.com/open?id=0B9j81_dQvglKSHp5ZGZQX1NuYzg) <br>
 [Mirror 1](https://www.dropbox.com/s/3mezqqvkegovoha/%5BFIX%5DCaery%27s%20Descend.jar?dl=0)
 
 ***
