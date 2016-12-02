@@ -26,6 +26,7 @@
 [Mirror 1](https://www.dropbox.com/s/3mezqqvkegovoha/%5BFIX%5DCaery%27s%20Descend.jar?dl=0) | [Mirror 2](https://mega.nz/#!688E0bCC!wJ54yqscWStVq47ph1oiQ4yJ4l_t8W-Q7_4eDX_afPE)<br><br>
 ### Final Version (For the mean time)
 [Direct Download](https://drive.google.com/open?id=0B9j81_dQvglKWm84X0VaamlCWnM) <br>
+[Mirror 1](https://www.dropbox.com/s/h27apwkrpa9w9jd/Caery%27s%20Descent.jar?dl=0)<br>
 
 
 ***
