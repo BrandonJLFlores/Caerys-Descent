@@ -31,6 +31,7 @@
 | --- | --- |
 |![Left Button Key](https://www.iconexperience.com/_img/v_collection_png/128x128/shadow/keyboard_key_left.png) | Moves the player left |
 |![Right Button Key](https://www.iconexperience.com/_img/v_collection_png/128x128/shadow/keyboard_key_right.png) | Moves the player right |
+|![Escape Button](http://icons.iconarchive.com/icons/chromatix/keyboard-keys/128/esc-icon.png) | Pauses the game |
 
 ### COLLECT
 | Powerups | Effect |
